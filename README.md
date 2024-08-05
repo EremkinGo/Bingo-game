@@ -1,0 +1,1 @@
+This a simple program, that creates bingo tickets 5x5, than saves them to a text files, imitates the Bingo game with 30 felt out numbers and check if there was a winner, and says which ticket was a Winner (or tickets).
